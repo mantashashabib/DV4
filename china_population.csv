@@ -1,4 +1,4 @@
-Year,Population,Yearly % Change,Yearly Change,Migrants (net),Median Age,Fertility Rate,Density (P/Km²),Urban Pop %,Urban Population,Country's Share of World Pop,World Population,China Global Rank
+Year,Population,Yearly%Change,Yearly_Change,Migrants_(net),Median_Age,Fertility_Rate,Density_(P/Km²),Urban_Pop %,Urban_Population,Country_Share_of_World_Pop,World_Population,China Global Rank
 2020,1439323776,0.39,5540090,-348399,38.4,1.69,153,60.8,875075919,18.47,7794798739,1
 2019,1433783686,0.43,6135900,-348399,37.0,1.65,153,59.7,856409297,18.59,7713468100,1
 2018,1427647786,0.47,6625995,-348399,37.0,1.65,152,58.6,837022095,18.71,7631091040,1
