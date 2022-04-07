@@ -1,4 +1,4 @@
-Month,Year,Total Orders,Gross Sales,Discounts,Returns,Net Sales,Shipping,Total Sales
+Month,Year,Total_Orders,Gross_Sales,Discounts,Returns,Net_Sales,Shipping,Total_Sales
 January,2017,73,8861.5,-129.4,-448.45,8283.65,1088.3,9371.95
 February,2017,56,6908.5,-104.7,-416.2,6387.6,892.45,7280.05
 March,2017,60,5778.5,-172.2,-1017.2,4589.1,707.43,5296.53
